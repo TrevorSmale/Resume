@@ -1,5 +1,6 @@
-## This page is under construction
+## Trevor Smale
 
+#welcome
 
-[Link](url) and ![Image](src)
+I am a Designer with an interest in software
 

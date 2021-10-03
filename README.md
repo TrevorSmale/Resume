@@ -5,9 +5,7 @@
 * Micro Electronics
 * Python, Golang
 
-# Projects
+# Certifications
 
-* Test1
-* Test2
-* Test3
-
+* Comptia +
+* Python for everybody

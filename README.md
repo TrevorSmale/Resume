@@ -1,7 +1,7 @@
 # Software Skills
 
 * Mac OS, Linux, Windows
-* Scripting (Bash, Python, Golang)
+* Scripting (Bash, ZSH, Python, Golang)
 * Web (HTML, CSS, MySQL)
 * Customizing dot files
 * Version Control utilizing GIT CLI 

@@ -1,3 +1,7 @@
+# Projects
+
+https://github.com/TrevorSmale/Resume
+
 # Software Skills
 
 * Mac OS, Linux, Windows
@@ -20,6 +24,3 @@
 * Comptia A+ (Expected)
 * Python - Coursera
 
-# Projects
-
-[Resume]: https://github.com/TrevorSmale/Resume using GitHub Pages

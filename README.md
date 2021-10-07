@@ -1,6 +1,11 @@
-# Projects
+### Profile
 
-## [P1 - GitHub Pages Resume](https://github.com/TrevorSmale/Resume) 
+Design professional with an interest in software development.
+
+### Projects
+
+#### [P1 - GitHub Pages Resume](https://github.com/TrevorSmale/Resume) 
+#### [P2 - Customized Dotfiles](https://github.com/TrevorSmale/Dotfiles)
 
 ### Software Skills
 

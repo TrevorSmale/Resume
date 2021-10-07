@@ -1,6 +1,6 @@
 # Projects
 
-# [project 1] (https://github.com/TrevorSmale/Resume) 
+# [project 1](https://github.com/TrevorSmale/Resume) 
 
 # Software Skills
 

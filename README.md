@@ -1,8 +1,8 @@
 # Projects
 
-# [project 1](https://github.com/TrevorSmale/Resume) 
+## [P1 - GitHub Pages Resume](https://github.com/TrevorSmale/Resume) 
 
-# Software Skills
+### Software Skills
 
 * Mac OS, Linux, Windows
 * Scripting (Bash, ZSH, Python, Golang)
@@ -11,7 +11,7 @@
 * Version Control utilizing GIT CLI 
 * Remote Access using SSH
 
-# Design Skills
+### Design Skills
 
 * UI & UX (Sketch)
 * CAD Design & Detailing
@@ -19,7 +19,7 @@
 * Lighting & Rendering
 * Graphic Composition & Layout
 
-# Certifications
+### Certifications
 
 * Comptia A+ (Expected)
 * Python - Coursera

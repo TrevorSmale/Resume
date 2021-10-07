@@ -1,6 +1,6 @@
 # Projects
 
-[ src="https://github.com/TrevorSmale/Resume" ][Resume Repository]
+[project 1]: https://github.com/TrevorSmale/Resume 
 
 # Software Skills
 

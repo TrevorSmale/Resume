@@ -2,21 +2,27 @@
 
 Design professional with an interest in software development.
 
-### Projects
+### Utilities
 
-#### [P1 - GitHub Pages Resume](https://github.com/TrevorSmale/Resume) 
-#### [P2 - Customized Dotfiles](https://github.com/TrevorSmale/Dotfiles)
+Neovim, Kate, Sublime, Krita
 
-### Software Skills
+#### Systems
 
-* Mac OS, Linux, Windows
-* Scripting (Bash, ZSH, Python, Golang)
-* Web (HTML, CSS, MySQL)
-* Customizing dot files
+* UNIX systems (Mac OS, Linux)
+* Windows
+
+#### Languages
+
+* Bash, Lua, Ruby, Go, Python
+* HTML, CSS, Javascript
+* Customizing config files
+
+#### Administration
+
 * Version Control utilizing GIT CLI 
 * Remote Access using SSH
 
-### Design Skills
+#### Design Skills
 
 * UI & UX (Sketch)
 * CAD Design & Detailing
@@ -24,7 +30,7 @@ Design professional with an interest in software development.
 * Lighting & Rendering
 * Graphic Composition & Layout
 
-### Certifications
+#### Certifications
 
 * Comptia A+ (Expected)
 * Python - Coursera

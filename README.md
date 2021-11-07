@@ -1,37 +1,29 @@
 ### Profile
 
-Design professional with an interest in software development.
+Designer and Web3 Dev
 
-### Utilities
+#### Technical Skills
 
-Neovim, Kate, Sublime, Krita
+* Linux Dev-Ops
+* Solidity, Go, Python
+* Solidity Web3 SmartContracts
+* Dapp Development
+* Defi Development
 
-#### Systems
+#### Creative Skills
 
-* UNIX systems (Mac OS, Linux)
-* Windows
-
-#### Languages
-
-* Bash, Lua, Ruby, Go, Python
-* HTML, CSS, Javascript
-* Customizing config files
-
-#### Administration
-
-* Version Control utilizing GIT CLI 
-* Remote Access using SSH
-
-#### Design Skills
-
-* UI & UX (Sketch)
 * CAD Design & Detailing
-* 3D Modelling & Texturing
-* Lighting & Rendering
-* Graphic Composition & Layout
+* 3D Computer Graphics
+* Hardware prototyping
+* Graphical Composition & Layout
+* Photography/Videography
+* Remote Collaborative Methodologies
+* Programming 
 
 #### Certifications
 
 * Comptia A+ (Expected)
 * Python - Coursera
+* Solidity - Udemy
+
 

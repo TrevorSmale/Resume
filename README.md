@@ -12,6 +12,8 @@ Professionally experienced with designing constructed or manufactured objects.
 * **Programming** (Python, Golang)
 * **Graphics** (Inkscape, Krita, PS, AI)
 
+Posted from MBP
+
 
 
 

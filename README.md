@@ -5,14 +5,12 @@ Professionally experienced with designing constructed or manufactured objects.
 
 #### Technical Skills
 
-* **Collaborative Development Methodologies** (Git, Documentation)
-* **Hardware prototyping** (3D Printing, CNC, Machining)
-* **Computer Aided Design** (Rhino 3D, AutoCAD, FreeCAD
-* **Scripting** (Python, Lisp)
-* **Programming** (Python, Golang)
+* **Hardware Design** (Rhino 3D, AutoCAD, FreeCAD, KiCAD, 3D printing)
+* **Scripting** (Python, Lisp, Bash)
+* **Web Dev** (Python, Golang, HTML, CSS, JS, Next.JS, Git, SSH)
 * **Graphics** (Inkscape, Krita, PS, AI)
 
-Posted from MBP
+Posted fromi
 
 
 

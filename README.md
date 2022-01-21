@@ -1,17 +1,14 @@
 ### Profile
 
-Artist and Technical Designer with some scripting and programming skill.
-Professionally experienced with designing constructed or manufactured objects.
+Technical Designer & Creative Technologist
 
 #### Technical Skills
 
-* **Hardware Design** (Rhino 3D, AutoCAD, FreeCAD, KiCAD, 3D printing)
-* **Scripting** (Python, Lisp, Bash)
-* **Web Dev** (Python, Golang, HTML, CSS, JS, Next.JS, Git, SSH)
-* **Graphics** (Inkscape, Krita, PS, AI)
-
-Posted fromi
-
-
-
+* **Technical Design** (Rhino 3D, AutoCAD, FreeCAD, KiCAD, 3D printing)
+* **CG** Blender 3D, Zbrush, Keyshot, Octane
+* **Trad Art** Oil Painting, Sketching, Drawing
+* **Scripting** Python, Lisp, Bash
+* **Web Dev** Linux, Python, Golang, HTML, CSS, JS, Next.JS, Git, SSH
+* **UI/UX** Adobe XD, Figma
+* **Graphics** Inkscape, Krita, PS, AI
 

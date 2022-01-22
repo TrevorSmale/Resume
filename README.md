@@ -19,4 +19,11 @@ Technical Designer & Creative Technologist with a broad practical skillset.
 
 #### Professional Experience
 
+**Assistant Art Director** Directors Guild of Ontario - Various Projects 2018-Current
+
+**Adjunct Instructor** Loyalist College, OCADU, Online 2016-2018
+
+**Freelance Technical Designer** 002478101 Ontario Inc. - Various Clients 2015-Current
+
+
 
